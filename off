@@ -1412,3 +1412,4 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 if __name__ == '__main__':
     print("🚀 Iniciando bot de vendas...")
     bot.run(TOKEN)
+
